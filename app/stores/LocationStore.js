@@ -30,6 +30,7 @@ AppDispatcher.register((action) => {
       break;
     default:
   }
+  
 });
 
 export default store;
